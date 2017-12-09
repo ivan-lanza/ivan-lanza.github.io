@@ -1,0 +1,22 @@
+body {
+  background: #FAFAFA; }
+
+.custom-navbar {
+  border-bottom: 1px solid #e6e6e6; }
+
+.profile-img {
+  margin-top: 15vh; }
+
+.custom-jumbotrom {
+  background: #FAFAFA !important; }
+
+.btn-send {
+  margin-bottom: 5vh; }
+
+.luiz {
+  color: #000; }
+
+.ivan {
+  color: #f00; }
+
+/*# sourceMappingURL=style.css.map */

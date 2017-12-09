@@ -1,0 +1,11 @@
+$default-white: #FAFAFA;
+$red: #F00;
+$border-navbar: 1px solid #e6e6e6;
+$luiz-cor: #000;
+body{background: $default-white}
+.custom-navbar{border-bottom: $border-navbar;}
+.profile-img{margin-top: 15vh;}
+.custom-jumbotrom{background: $default-white !important;}
+.btn-send{margin-bottom: 5vh;}
+.luiz{color: $luiz-cor;}
+.ivan{color: #f00;}
